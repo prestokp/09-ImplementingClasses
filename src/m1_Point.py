@@ -49,6 +49,7 @@ class Point(object):
         self.intitalx = x_val
         self.initialy = y_val
         self.total_distance = 0
+        self.halfpoint = 0
 
     def __repr__(self):
          return "Point({}, {})".format(self.x, self.y)
@@ -100,7 +101,8 @@ class Point(object):
             return P3
         return P2
 
-    def halfway_to(self):
+    def halfway_to(self, P2):
+        self.halfway = self.get_distance_from(self,P2)
 
 
 
