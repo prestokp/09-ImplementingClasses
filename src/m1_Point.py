@@ -109,7 +109,7 @@ class Point(object):
 
     # I'm going to come to office hours to get the full run down on what i can do here. It says
     #I can upload documents to another location after commit. Also, still want to gain control of
-    # all of the robots remotely and I want to learn how to hack ethically. 
+    # all of the robots remotely and I want to learn how to hack ethically.
 
 
 
@@ -1115,7 +1115,7 @@ def run_test_halfway_to():
 
     """
     # -------------------------------------------------------------------------
-    # TODO: 13.  Follow the same instructions as in TO-DO 3 above,
+    # DONE: 13.  Follow the same instructions as in TO-DO 3 above,
     #    but for the  halfway_to  method specified above.
     # -------------------------------------------------------------------------
     print()
