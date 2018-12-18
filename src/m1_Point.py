@@ -104,7 +104,12 @@ class Point(object):
     def halfway_to(self, P2):
         halfdistance = ((self.x + P2.x)/2), ((self.y+P2.y)/2)
         return halfdistance
-    
+
+
+
+    # I'm going to come to office hours to get the full run down on what i can do here. It says
+    #I can upload documents to another location after commit. Also, still want to gain control of
+    # all of the robots remotely and I want to learn how to hack ethically. 
 
 
 
